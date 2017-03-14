@@ -1,0 +1,39 @@
+Centipede Project: 
+	Pedro Pachuca
+	Nathan Hilal
+	Anurag Koyyada
+	Eric Wu
+	
+Accomplishments:
+	ALL:
+		Brainstorm Structure and Outline
+		Learned Mechanics of Centipede
+	Nathan Hilal	
+		Created Shooter
+		Picture Research and Implementation
+		Problem Research and Solving
+		Creation and Testing of JAR
+		Picture Reconfiguration
+	Pedro Pachuca	
+		Collision Detection Implementation
+		Creation and Implementation of the Centipede
+		Contributed to Drawing Mechanics 
+		Problem Research and Solving
+		Contributed to Error Debugging
+		Picture Integration
+		Movement Algorithms
+		Shooting Mechanics
+	Eric Wu
+		Contributed to Drawing Mechanics	
+		Contributed to Error Debugging
+		Contributed to Picture Research 
+		Base Centipede Mechanics Guide
+		Problem Research and Solving
+	Anurag Koyyada
+		Preliminary OOP Planning
+		Contributed to Error Debugging
+		Contributed to Picture Research and Implementation
+		Base Centipede Mechanics Guide
+		Problem Identification 
+		Contributed to Movement Algorithms for Spider
+		
